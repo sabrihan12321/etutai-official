@@ -11,8 +11,6 @@ Resmi Web Sitesi: https://etutai.com.tr
 - Akıllı Soru ve Konu Analizi: Yapay zeka ile eksiklerinizi anında tespit edin.
 - Kişiselleştirilmiş Çalışma Programı: Hedeflerinize uygun dinamik ders çalışma planları.
 - Anlık Soru Çözüm Desteği: Takıldığınız konularda 7/24 rehberlik.
-- Gelişim ve Performans Takibi: Detaylı grafiklerle ders başarınızı analiz edin.
-
 ---
 
 ## Neden EtütAI?
