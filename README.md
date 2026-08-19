@@ -26,4 +26,3 @@ Daha fazla bilgi edinmek ve hemen denemek için etutai.com.tr adresini ziyaret e
 ## Bağlantılar ve İletişim
 
 - Web Sitesi: https://etutai.com.tr
-- Destek ve İletişim: https://etutai.com.tr
